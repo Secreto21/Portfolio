@@ -1,0 +1,18 @@
+#contact {
+  padding: 30em 0;
+  background-color: #7990A3;
+  text-align: center;
+}
+
+#contact h2 {
+  font-size: 2em;
+  margin-bottom: 1em;
+  color: #ffff;
+}
+
+#contact p {
+  font-size: 1.2em;
+  color: #ece7e7;
+  max-width: 600px;
+  margin: 0 auto;
+}
