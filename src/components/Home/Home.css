@@ -1,0 +1,71 @@
+#home {
+  padding: 5em 0;
+  padding-top: 80px; /* Ajusta según la altura del navbar */
+  background-color: #f0f4f8;
+  text-align: center;
+  background-image: linear-gradient(
+      rgba(0, 0, 0, 0.3),
+      rgba(0, 0, 0, 0.3)
+    ),
+    url(../../assets/images/programacion-2-e1551291144973.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#home .box_1 {
+  position: relative;
+  z-index: 2;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2em;
+  background-color: rgba(255, 255, 255, 0.9); /* Más opaco */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  text-align: center;
+}
+
+#home h1 {
+  font-size: 3em;
+  margin-bottom: 0.5em;
+  color: #fff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Sombra para mejor legibilidad */
+  animation: fadeIn 1s ease-out;
+}
+
+#home p {
+  font-size: 1.2em;
+  color: #ffffff;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5); /* Sombra para mejor legibilidad */
+  animation: fadeIn 1.2s ease-out;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 768px) {
+  #home h1 {
+    font-size: 2rem;
+  }
+
+  #home p {
+    font-size: 1rem;
+  }
+
+  #home .box_1 {
+    padding: 1.5em;
+  }
+}
