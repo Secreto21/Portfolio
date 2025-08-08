@@ -2,6 +2,6 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  base: "/Portfolio/",  // ¡Exacto! Mayúsculas, minúsculas y barra final
+  base: "/https://github.com/Secreto21/Portfolio/",
   plugins: [react()]
 })
