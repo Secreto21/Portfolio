@@ -108,8 +108,8 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 **Santiago Romero**
 - GitHub: [@Secreto21](https://github.com/Secreto21)
-- LinkedIn: [Santiago Romero](https://linkedin.com/in/santiago-romero-dev)
-- Email: santiago.romero.dev@gmail.com
+- LinkedIn: [Santiago Romero](https://www.linkedin.com/in/santiago-romero-343191297/)
+- Email: sanromerito21@gmail.com
 
 ## 🙏 Agradecimientos
 

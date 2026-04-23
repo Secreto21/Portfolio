@@ -34,7 +34,7 @@ const About = () => {
           >
             <h3>Mi Historia</h3>
             <p>
-              Soy Santiago Romero, un desarrollador full stack de 18 años con una pasión 
+              Soy Santiago Romero, un desarrollador full stack de 19 años con una pasión 
               genuina por la programación. Mi viaje comenzó con cursos en Coderhouse y 
               proyectos personales, desarrollando tanto frontend como backend.
             </p>

@@ -16,7 +16,7 @@ export const profile = {
     titlePrefix: 'Hola, soy',
     roleTagline: 'Desarrollador Full Stack apasionado',
     description:
-      'Tengo 18 años, completé cursos de programación y me encanta crear experiencias web increíbles. Estoy construyendo mi futuro en el desarrollo web con pasión y dedicación.',
+      'Tengo 19 años, completé cursos de programación y me encanta crear experiencias web increíbles. Estoy construyendo mi futuro en el desarrollo web con pasión y dedicación.',
     ctaProjects: 'Ver Proyectos',
     ctaContact: 'Contactar',
     ctaCv: 'Descargar CV',
